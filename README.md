@@ -28,8 +28,11 @@ Aplicação servidora (PC) para disponibilização do serviço. Ao iniciar o app
 <br>
 # Requisitos
 Uso/instalação do [Java Runtime Environment (JRE)](https://www.java.com/pt_BR/download "Java Runtime Environment (JRE)").
+<br>
 A pasta "lib" que contém a biblioteca lipermi, deve estar no mesmo diretório que a aplicação.
+<br>
 O servidor (PC) deve estar conectado a mesma rede que o cliente (Android).
+<br>
 A porta selecionada deverá estar aberta/liberada localmente.
 <br>
 <br>
